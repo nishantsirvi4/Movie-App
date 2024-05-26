@@ -1,0 +1,358 @@
+[
+  {
+    "id": 1,
+    "title": "Tenet",
+    "director": "Christopher Nolan",
+    "language": "English",
+    "rating_type": "IMDb",
+    "release_year": 2020,
+    "rating": 7.8,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Soul",
+    "director": "Pete Docter, Kemp Powers",
+    "language": "English",
+    "rating_type": "IMDb",
+    "release_year": 2020,
+    "rating": 8.1,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "The Invisible Man",
+    "director": "Leigh Whannell",
+    "language": "English",
+    "rating_type": "IMDb",
+    "release_year": 2020,
+    "rating": 7.1,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "The Trial of the Chicago 7",
+    "director": "Aaron Sorkin",
+    "language": "English",
+    "rating_type": "IMDb",
+    "release_year": 2020,
+    "rating": 7.8,
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Mank",
+    "director": "David Fincher",
+    "language": "English",
+    "rating_type": "IMDb",
+    "release_year": 2020,
+    "rating": 6.8,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Dune",
+    "director": "Denis Villeneuve",
+    "language": "English",
+    "rating_type": "IMDb",
+    "release_year": 2021,
+    "rating": 8.1,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "No Time to Die",
+    "director": "Cary Joji Fukunaga",
+    "language": "English",
+    "rating_type": "IMDb",
+    "release_year": 2021,
+    "rating": 7.3,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "The French Dispatch",
+    "director": "Wes Anderson",
+    "language": "English",
+    "rating_type": "IMDb",
+    "release_year": 2021,
+    "rating": 7.2,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "The Suicide Squad",
+    "director": "James Gunn",
+    "language": "English",
+    "rating_type": "IMDb",
+    "release_year": 2021,
+    "rating": 7.2,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Cruella",
+    "director": "Craig Gillespie",
+    "language": "English",
+    "rating_type": "IMDb",
+    "release_year": 2021,
+    "rating": 7.4,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Sooryavanshi",
+    "director": "Rohit Shetty",
+    "language": "Hindi",
+    "rating_type": "IMDb",
+    "release_year": 2021,
+    "rating": 6.5,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Master",
+    "director": "Lokesh Kanagaraj",
+    "language": "Tamil",
+    "rating_type": "IMDb",
+    "release_year": 2021,
+    "rating": 7.8,
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Shershaah",
+    "director": "Vishnuvardhan",
+    "language": "Hindi",
+    "rating_type": "IMDb",
+    "release_year": 2021,
+    "rating": 8.4,
+    "genres": [
+      "Biography",
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Jai Bhim",
+    "director": "T.J. Gnanavel",
+    "language": "Tamil",
+    "rating_type": "IMDb",
+    "release_year": 2021,
+    "rating": 9.3,
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "83",
+    "director": "Kabir Khan",
+    "language": "Hindi",
+    "rating_type": "IMDb",
+    "release_year": 2021,
+    "rating": 7.4,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "The Batman",
+    "director": "Matt Reeves",
+    "language": "English",
+    "rating_type": "IMDb",
+    "release_year": 2022,
+    "rating": 8.2,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Top Gun: Maverick",
+    "director": "Joseph Kosinski",
+    "language": "English",
+    "rating_type": "IMDb",
+    "release_year": 2022,
+    "rating": 8.6,
+    "genres": [
+      "Action",
+      "Drama"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "RRR",
+    "director": "S.S. Rajamouli",
+    "language": "Telugu",
+    "rating_type": "IMDb",
+    "release_year": 2022,
+    "rating": 8.4,
+    "genres": [
+      "Action",
+      "Drama"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Gangubai Kathiawadi",
+    "director": "Sanjay Leela Bhansali",
+    "language": "Hindi",
+    "rating_type": "IMDb",
+    "release_year": 2022,
+    "rating": 7.0,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Vikram",
+    "director": "Lokesh Kanagaraj",
+    "language": "Tamil",
+    "rating_type": "IMDb",
+    "release_year": 2022,
+    "rating": 8.0,
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Avatar: The Way of Water",
+    "director": "James Cameron",
+    "language": "English",
+    "rating_type": "IMDb",
+    "release_year": 2022,
+    "rating": 7.8,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Brahmastra Part One: Shiva",
+    "director": "Ayan Mukerji",
+    "language": "Hindi",
+    "rating_type": "IMDb",
+    "release_year": 2022,
+    "rating": 6.8,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "director": "Sam Raimi",
+    "language": "English",
+    "rating_type": "IMDb",
+    "release_year": 2022,
+    "rating": 7.0,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "KGF Chapter 2",
+    "director": "Prashanth Neel",
+    "language": "Kannada",
+    "rating_type": "IMDb",
+    "release_year": 2022,
+    "rating": 8.3,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Ponniyin Selvan: I",
+    "director": "Mani Ratnam",
+    "language": "Tamil",
+    "rating_type": "IMDb",
+    "release_year": 2022,
+    "rating": 8.0,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "dd",
+    "director": "nish",
+    "language": "ua",
+    "rating_type": "ua",
+    "release_year": 2002,
+    "rating": 9.0,
+    "genres": [
+      "love"
+    ]
+  }
+]
